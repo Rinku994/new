@@ -22,8 +22,12 @@
     <list default="true" id="6e26196d-04fb-40c2-9716-027632502200" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/booking_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/addroom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/images.jfif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WEB.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
@@ -94,9 +98,17 @@
       <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/owl.carousel.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/popper.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eZee_booking/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/eZee_booking/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/eZee_booking/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/Formal.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/NepC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/Single1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/location.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/price.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/queens.jpg" beforeDir="false" />
@@ -111,8 +123,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -140,11 +152,11 @@
       <recent name="C:\Users\user\WEB\eZee_booking" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Desktop\WEB\final-assignment-Rinku994-1\eZee_booking\static\images" />
       <recent name="C:\Users\user\WEB\eZee_booking\static\images" />
       <recent name="C:\Users\user\WEB\eZee_booking\booking\templates" />
       <recent name="C:\Users\user\WEB\eZee_booking\templates" />
       <recent name="C:\Users\user\WEB\eZee_booking\booking" />
-      <recent name="C:\Users\user\WEB\eZee_booking" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -173,9 +185,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="456" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617634875571">
+    <state x="456" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618241195961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="456" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1617634875571" />
+    <state x="456" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1618241195961" />
   </component>
 </project>
