@@ -20,100 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e26196d-04fb-40c2-9716-027632502200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/addroom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/images.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WEB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/templates/booking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/templates/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/templates/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/templates/review.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/booking/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/eZee_booking/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/eZee_booking/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/eZee_booking/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/eZee_booking/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/eZee_booking/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/ionicons.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/Double.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/Formal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/Nepali.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/Single.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/h2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/h5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/room.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/spa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/special.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/images/village.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/jquery-migrate-3.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/jquery.stellar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/jquery.waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/magnific-popup-options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/static/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eZee_booking/templates/base.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/getReserve.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/reserve.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/book.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/booking.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/templates/view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/booking/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/eZee_booking/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/eZee_booking/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/Formal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/NepC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/price.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/queens.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/room.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final-assignment-Rinku994-1/eZee_booking/static/images/triplet.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
